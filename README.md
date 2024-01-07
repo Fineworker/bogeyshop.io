@@ -1,3 +1,4 @@
+#bogeyshop.io
 <p class="helper tap">Hover over the tap to fill the mug</p>
 <h1>Fill the mug <span id="target">0</span>%</h1>
 <h2 id="percent-filled"></h2>
